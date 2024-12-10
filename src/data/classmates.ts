@@ -6,7 +6,7 @@ interface Classmate {
 }
 
 export const classmates: Classmate[] = [
-  { name: 'Vega', role: 'autism', quote: 'skibidi toilet r34', imageUrl: '' },
+  { name: 'Sravani Ma'am', role: 'The best Mentor', quote: 'You can all start Daily Quiz 17', imageUrl: 'FormResponses\mugshots\Sravani maam.jpg' },
   { name: '', role: '', quote: '', imageUrl: '' },
   { name: '', role: '', quote: '', imageUrl: '' },
   { name: '', role: '', quote: '', imageUrl: '' },

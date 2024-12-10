@@ -84,4 +84,4 @@ export const classmates: Classmate[] = [
   { name: '', role: '', quote: '', imageUrl: '' },
   { name: '', role: '', quote: '', imageUrl: '' },
   { name: '', role: '', quote: '', imageUrl: '' }
-]
+];

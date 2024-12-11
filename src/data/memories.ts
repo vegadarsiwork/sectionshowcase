@@ -6,33 +6,33 @@ interface Memory {
 
 export const memories: Memory[] = [
   {
-    title: 'First Day of Class',
-    date: 'September 2023',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?classroom',
+    title: '100 Days at NIAT',
+    date: 'November Ending 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836255/IMG20241128163627_-_Venkatesh_bijigiri_1_skdinq.jpg',
   },
   {
-    title: 'Science Fair Project',
-    date: 'October 2023',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?science',
+    title: 'Naitra Navratri',
+    date: 'September 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836226/IMG-20241009-WA0022_-_Mahadev_d7ltdl.jpg',
   },
   {
-    title: 'Sports Day',
-    date: 'November 2023',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?sports',
+    title: 'Teachers Day Celebration',
+    date: 'September 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836224/IMG-20240905-WA0006_-_Mahadev_pko10c.jpg',
   },
   {
-    title: 'Holiday Celebration',
-    date: 'December 2023',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?celebration',
+    title: 'Onam Fest',
+    date: 'September 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836202/IMG_2876_-_Nallaguntla_Dhanalaxmi_ycsw0w.jpg',
   },
   {
-    title: 'Group Project Presentation',
-    date: 'January 2024',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?presentation',
+    title: 'The girls on Onam',
+    date: 'September 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836199/grp_-_sree_charvi_iwgeuf.jpg',
   },
   {
-    title: 'Field Trip',
-    date: 'February 2024',
-    imageUrl: 'https://source.unsplash.com/random/1200x800?field-trip',
+    title: '100 Days (Again)',
+    date: 'November Ending 2024',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836194/100days_-_Siri_Talla_robuah.jpg',
   },
 ];

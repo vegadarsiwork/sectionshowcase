@@ -9,51 +9,35 @@ interface Project {
 
 export const projects: Project[] = [
   {
-    title: "EcoTracker",
-    description: "A web application that helps students track and reduce their carbon footprint through daily activities and challenges.",
-    imageUrl: "https://source.unsplash.com/random/800x600?nature,technology",
-    technologies: ["React", "Node.js", "MongoDB", "Chart.js"],
-    liveUrl: "https://eco-tracker.example.com",
-    githubUrl: "https://github.com/class2024/eco-tracker"
+    title: "BachelorBites",
+    description: "A website for bachelors for easy recipes. Made by Naeem, Purujith and Vega.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733909021/120ab166-3b9e-4e84-b590-02beef7f8111.png",
+    technologies: ["HTML","CSS","JS","Bootstrap"],
+    liveUrl: "http://bachelorbites.niat.tech/",
+    githubUrl: "#"
   },
   {
-    title: "StudyBuddy",
-    description: "A collaborative learning platform where students can form study groups, share resources, and track their progress together.",
-    imageUrl: "https://source.unsplash.com/random/800x600?study,education",
-    technologies: ["Vue.js", "Firebase", "Tailwind CSS"],
-    liveUrl: "https://study-buddy.example.com",
-    githubUrl: "https://github.com/class2024/study-buddy"
+    title: "Eshelf",
+    description: "A library website for books. Made by Tejeswar (ALON MUSK).",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733909080/cb6c54d3-b574-442f-baa4-e1f9dead54ed.png",
+    technologies: ["HTML","CSS","JS","Bootstrap"],
+    liveUrl: "https://tejeswar-eshelf.netlify.app/",
+    githubUrl: "#"
   },
   {
-    title: "Virtual Art Gallery",
-    description: "An immersive virtual space showcasing our class's artistic projects and creative works throughout the year.",
-    imageUrl: "https://source.unsplash.com/random/800x600?art,gallery",
-    technologies: ["Three.js", "React", "WebGL"],
-    liveUrl: "https://art-gallery.example.com",
-    githubUrl: "https://github.com/class2024/virtual-gallery"
+    title: "Jarvis",
+    description: "An AI model you can talk to. Made by Taj Kiran.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733909111/bebf1c30-dfb2-449d-8b87-9ac71de1918f.png",
+    technologies: ["HTML","CSS","JS","Bootstrap"],
+    liveUrl: "http://jarviseai.niat.tech",
+    githubUrl: "#"
   },
   {
-    title: "Class Chronicle",
-    description: "A digital yearbook and blog platform documenting our journey through memorable events and achievements.",
-    imageUrl: "https://source.unsplash.com/random/800x600?yearbook,memories",
-    technologies: ["Next.js", "Sanity.io", "Vercel"],
-    liveUrl: "https://class-chronicle.example.com",
-    githubUrl: "https://github.com/class2024/class-chronicle"
-  },
-  {
-    title: "SkillShare Hub",
-    description: "A platform where students can teach and learn from each other through video tutorials and interactive workshops.",
-    imageUrl: "https://source.unsplash.com/random/800x600?teaching,skills",
-    technologies: ["React", "Express", "PostgreSQL"],
-    liveUrl: "https://skillshare-hub.example.com",
-    githubUrl: "https://github.com/class2024/skillshare-hub"
-  },
-  {
-    title: "Community Connect",
-    description: "A social platform connecting our class with local community service opportunities and volunteer projects.",
-    imageUrl: "https://source.unsplash.com/random/800x600?community,volunteer",
-    technologies: ["React Native", "Firebase", "Redux"],
-    liveUrl: "https://community-connect.example.com",
-    githubUrl: "https://github.com/class2024/community-connect"
+    title: "Cybersafe (NIAT Hackathon Winner)",
+    description: "Your one-stop learning hub for everything cybersecurity. Made by Vega and 2 others.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733909145/99eda916-e40e-4e33-8db4-d5df9a9ba718.png",
+    technologies: ["HTML","CSS","JS","Bootstrap"],
+    liveUrl: "https://cybersafe-niat.netlify.app",
+    githubUrl: "#"
   }
 ];

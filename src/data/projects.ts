@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     title: "Jarvis",
-    description: "An AI model you can talk to. Made by Taj Kiran.",
+    description: "An AI model you can talk to. Made by Koushik Rapolu.",
     imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733909111/bebf1c30-dfb2-449d-8b87-9ac71de1918f.png",
     technologies: ["HTML","CSS","JS","Bootstrap"],
     liveUrl: "http://jarviseai.niat.tech",
@@ -42,7 +42,7 @@ export const projects: Project[] = [
   },
   {
     title: "ContactNIAT",
-    description: "A platform designed for personalized service management made with only HTML and CSS. Made by Sanjay, Srujan and Sidarth.",
+    description: "A platform for personalized service management. Made by Sanjay, Srujan and Sidarth.",
     imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913849/978397c0-3b29-4dec-9be4-f05bf0286938.png",
     technologies: ["HTML","CSS","Bootstrap"],
     liveUrl: "https://ephemeral-raindrop-23bbea.netlify.app/",
@@ -50,10 +50,18 @@ export const projects: Project[] = [
   },
   {
     title: "NetflixClone",
-    description: "Netflix clone homepage made with only HTML and CSS. Made by Pranay Yx.",
+    description: "Netflix clone homepage made with only HTML and CSS. Made by Pranay Y.",
     imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913815/fdaae75e-b52a-4fb7-bcec-57cbff8dc1ae.png",
     technologies: ["HTML","CSS","Bootstrap"],
     liveUrl: "https://ypranaynetflix.niat.tech/",
+    githubUrl: "#"
+  },
+  {
+    title: "Pokédex",
+    description: "A website displaying all the Pokémon. Made by Taj Kiran.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733937697/f7f909ec-fbb9-4394-8594-48c4d4be8d39.png",
+    technologies: ["HTML","CSS","Bootstrap","JS"],
+    liveUrl: "https://pokedex11.niat.tech/",
     githubUrl: "#"
   }
 ];

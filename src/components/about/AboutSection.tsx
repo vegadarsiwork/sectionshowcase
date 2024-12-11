@@ -1,7 +1,7 @@
 import React from 'react';
 import { Heart } from 'lucide-react';
 
-function AboutSection() {
+export function AboutSection() {
   return (
     <div className="max-w-4xl mx-auto">
       <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">About Our Class</h2>
@@ -24,6 +24,3 @@ function AboutSection() {
     </div>
   );
 }
-
-// Export as default for lazy loading
-export default AboutSection;

@@ -64,7 +64,7 @@ export const classmates: Classmate[] = [
   { name: 'Shashank', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Ronith', role: 'Legend', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Vamshi Krishna', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
-  { name: 'A Karthikeya', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
+  { name: 'A Karthikeya', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733910949/093aacde-e3c9-42ba-9d7d-55cf291238d5.png' },
   { name: 'N.Pravallika', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Avinash', role: 'internship man', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Amruth', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
@@ -76,5 +76,6 @@ export const classmates: Classmate[] = [
   { name: 'Kota Shivamani', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Gopal Reddy', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Keerthi', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
+  { name: 'Ruthvik', role: '', quote: 'The Chill Guy everyones talking about', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733911120/e3e83580-7127-48a8-a0fb-05c868a48427.png' },
   { name: 'Viswateja', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' }
 ];

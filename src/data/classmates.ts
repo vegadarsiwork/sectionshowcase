@@ -73,9 +73,9 @@ export const classmates: Classmate[] = [
   { name: 'Dinesh', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Amruth', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733914020/a036f627-594b-4132-b9a0-9498fffb9131.png' },
   { name: 'Kota Shivamani', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913030/75a0f4db-9adf-42b2-984d-526c727d6d17.png' },
-  { name: 'Gopal Reddy', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
+  { name: 'Siddharth', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913285/113c1b78-2b41-42eb-a769-cf526fd0f304.png' },
   { name: 'Keerthi', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Ruthvik', role: '', quote: 'The Chill Guy everyones talking about', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733911120/e3e83580-7127-48a8-a0fb-05c868a48427.png' },
   { name: 'Viswateja', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733912685/6c983789-5457-4f8f-8afc-b2675a16649b.png' },
-  { name: 'Siddharth', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913285/113c1b78-2b41-42eb-a769-cf526fd0f304.png' }
+  { name: 'Gopal Reddy', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' }
 ];

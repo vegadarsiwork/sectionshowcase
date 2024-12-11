@@ -61,7 +61,7 @@ export const funPhotos: FunPhoto[] = [
     caption: ' '
   },
   {
-    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733912826/e39cd932-981c-48de-9080-1604a2071b08.png',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733914702/4906871b-037f-45a6-9f5b-915c366a49ee.png',
     caption: ' '
   },
   {

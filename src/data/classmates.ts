@@ -75,6 +75,6 @@ export const classmates: Classmate[] = [
   { name: 'Vega D', role: 'Creator of this website', quote: 'I dont know telugu', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733908308/dcf19162-2ac1-4bef-8b0d-39b0533156e5.png' },
   { name: 'Kota Shivamani', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Gopal Reddy', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
-  { name: 'Keerthi', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' }
+  { name: 'Keerthi', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Viswateja', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' }
 ];

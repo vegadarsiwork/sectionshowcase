@@ -18,7 +18,7 @@ export const memories: Memory[] = [
   {
     title: 'Teachers Day Celebration',
     date: 'September 2024',
-    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836224/IMG-20240905-WA0006_-_Mahadev_pko10c.jpg',
+    imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913904/09e94ff9-2274-4a0f-a2d6-351824f52dcd.png',
   },
   {
     title: 'Onam Fest',

@@ -39,5 +39,21 @@ export const projects: Project[] = [
     technologies: ["HTML","CSS","JS","Bootstrap"],
     liveUrl: "https://cybersafe-niat.netlify.app",
     githubUrl: "#"
+  },
+  {
+    title: "ContactNIAT",
+    description: "A platform designed for personalized service management made with only HTML and CSS. Made by Sanjay, Srujan and Sidarth.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913849/978397c0-3b29-4dec-9be4-f05bf0286938.png",
+    technologies: ["HTML","CSS","Bootstrap"],
+    liveUrl: "https://ephemeral-raindrop-23bbea.netlify.app/",
+    githubUrl: "#"
+  },
+  {
+    title: "NetflixClone",
+    description: "Netflix clone homepage made with only HTML and CSS. Made by Pranay Yx.",
+    imageUrl: "https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913815/fdaae75e-b52a-4fb7-bcec-57cbff8dc1ae.png",
+    technologies: ["HTML","CSS","Bootstrap"],
+    liveUrl: "https://ypranaynetflix.niat.tech/",
+    githubUrl: "#"
   }
 ];

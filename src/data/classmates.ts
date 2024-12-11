@@ -36,7 +36,7 @@ export const classmates: Classmate[] = [
   { name: 'K Anusha', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836000/Kenchampalli_Anusha_x4kwzp.jpg' },
   { name: 'V. Nalin Sai', role: '', quote: 'Comedy ah?', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733836000/IMG20241009172516_-_KITTU_FF_lw4hxp.jpg' },
   { name: 'Harshitha', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835999/IMG-20241009-WA0045_-_Harshitha_ail_je0suj.jpg' },
-  { name: 'Advaith', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835998/AdvaithPhoto_rotvb4.pngA' },
+  { name: 'Advaith', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835998/AdvaithPhoto_rotvb4.png' },
   { name: 'Akshay', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835997/AkshayPhoto_rzngid.jpg' },
   { name: 'Murali Krishna', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835997/IMG_20241011_080155_-_Danaboina_Murali_Krishna_b1q6gy.jpg' },
   { name: 'Mahadev', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733835997/IMG_20240914_130739_-_Mahadev_jbjdvn.jpg' },

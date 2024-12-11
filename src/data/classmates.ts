@@ -52,7 +52,6 @@ export const classmates: Classmate[] = [
   { name: '(yet to be) Naeem Ahmad', role: '', quote: 'Ill be naeem', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907075/5c8e8978-dc4f-4790-89d2-e7f74ecd1df4.png' },
   { name: 'Naga Sai Purujith Kondur', role: '2nd CR', quote: 'pew pew', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907238/e7cfb532-1727-4dc2-883f-7b3b56971965.png' },
   { name: 'Sriven Sai Rishi', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907335/5ba4eddf-65cf-4294-83aa-87c3d21a6f34.png' },
-  { name: 'Srujan Yadav', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733907462/Chorus_Girl_atmfzu.jpg' },
   { name: 'Neelkanth', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733912163/29dcbe8f-c9b4-4f00-a16f-4a82152f6602.png' },
   { name: 'Narasimha', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733913075/WhatsApp_Image_2024-12-11_at_16.01.00_d7e44db4_bb1xzv.jpg' },
   { name: 'Sai Kaushik', role: '', quote: '', imageUrl: 'https://res.cloudinary.com/dhyhfalvs/image/upload/v1733911918/8a27738a-e22e-4a3e-9e4a-80db9a6db464.png' },

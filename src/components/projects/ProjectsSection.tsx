@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { projects } from '../../data/projects';
-import { ExternalLink, Github } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 
 export function ProjectsSection() {
   const [ref, inView] = useInView({
@@ -12,7 +12,7 @@ export function ProjectsSection() {
 
   return (
     <div className="max-w-6xl mx-auto" ref={ref}>
-      <h2 className="text-3xl font-bold text-center mb-12 bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
+      <h2 className="text-4xl font-bold text-center mb-12 text-white">
         Our Class Projects
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -21,29 +21,33 @@ export function ProjectsSection() {
             key={project.title}
             initial={{ opacity: 0, y: 50 }}
             animate={inView ? { opacity: 1, y: 0 } : {}}
+            whileHover={{ 
+              scale: 1.05,
+              transition: { duration: 0.2 }
+            }}
             transition={{ duration: 0.5, delay: index * 0.1 }}
-            className="bg-white rounded-xl shadow-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300"
+            className="bg-[#1a1a2e] rounded-xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-300 border border-[#5334b3]/20 group"
           >
             <div className="aspect-video relative overflow-hidden">
               <img
                 src={project.imageUrl}
                 alt={project.title}
-                className="w-full h-full object-cover transform hover:scale-110 transition-transform duration-300"
+                className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">
+              <h3 className="text-xl font-semibold text-white mb-2 group-hover:text-[#5334b3] transition-colors duration-300">
                 {project.title}
               </h3>
-              <p className="text-gray-600 mb-4 line-clamp-2">
+              <p className="text-white/70 mb-4 line-clamp-2">
                 {project.description}
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {project.technologies.map((tech) => (
                   <span
                     key={tech}
-                    className="px-3 py-1 text-sm bg-indigo-50 text-indigo-600 rounded-full"
+                    className="px-3 py-1 text-sm bg-[#5334b3]/20 text-[#5334b3] rounded-full border border-[#5334b3]/30"
                   >
                     {tech}
                   </span>
@@ -54,19 +58,10 @@ export function ProjectsSection() {
                   href={project.liveUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-sm text-indigo-600 hover:text-indigo-800 transition-colors"
+                  className="flex items-center gap-2 text-sm text-[#5334b3] hover:text-white transition-colors duration-300"
                 >
                   <ExternalLink size={16} />
                   Live Demo
-                </a>
-                <a
-                  href={project.githubUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-sm text-gray-600 hover:text-gray-800 transition-colors"
-                >
-                  <Github size={16} />
-                  Source Code
                 </a>
               </div>
             </div>
